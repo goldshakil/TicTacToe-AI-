@@ -1,7 +1,7 @@
 
 import java.io.*;
 import java.util.*;
-public class HW2
+public class TicTacToe
 {
   //please change the matrix_size in node class and board initilization manually
   public static int matrix_size=4;
